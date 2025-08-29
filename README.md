@@ -1,2 +1,2 @@
 # Adaptive-Partial-Momentum-Hamiltonian-Monte-Carlo
-code will be realsed soon.
+This is the code used to do the experiments of the article Adaptive Partial Momentum Hamiltonian Monte Carlo
